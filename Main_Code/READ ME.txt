@@ -1,0 +1,36 @@
+## Ardunio C++ Project - RGB LED DMX Controlled light for ROOTOFTWO Roof top chicken project.
+# More projects and further information can be found here.
+https://github.com/kitzer/rootoftwo
+
+Always use this GitHb README.txt version as this is the most recent and updated version.
+
+#####   CODE DETAILS (BREIF   #####
+## This code is a simple way to have DMX controlled light to fade thought the basic colours (RED, ORANGE, YELLOW, BLUE and GREEN).
+# The code has been set to go though these colours in a set order with a custom created cross fade that is on a timer from 1-400 milliseconds.
+
+
+#####   SYSTEM REQUIREMENTS   #####
+
+# Runs on Ardunio UNO R3 with DMX Sheild hat
+
+# Requires the following packages: Conceptinetics
+# Requiers Ardunio IDE To edit.
+
+
+#####   RUNNING CODE   #####
+
+1. Download and unpack the Simple package from the following link: https://github.com/kitzer/rootoftwo by pressing the green link: "Clone or download"
+
+2. Place the Simple folder in your home directory.
+
+3. Open the code using the Ardunio IDE
+
+4. On the Ardunio DMX Hat check that the EN trip pin is on the RIGHT hand side, this allows code to be written to the hat
+
+5. Once open ensure that the Ardunio is on the correct port (TOOLS, PORT and select Ardunio port)
+
+6. Click the Arrow button in the top left hand side of the IDE to check the code works.
+
+7. Click the Right Arrow button on the top left hand side of the IDE to upload the code to the Ardunio.
+
+8. Switch back the EN trip pin so it is on the LEFT hand side of the 3 pins. This will enable the code.
