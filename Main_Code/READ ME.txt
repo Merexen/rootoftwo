@@ -1,6 +1,6 @@
 ## Ardunio C++ Project - RGB LED DMX Controlled light for ROOTOFTWO Roof top chicken project.
 # More projects and further information can be found here.
-https://github.com/kitzer/
+https://github.com/merexen/
 
 Always use this GitHb README.txt version as this is the most recent and updated version.
 
@@ -19,7 +19,7 @@ Always use this GitHb README.txt version as this is the most recent and updated 
 
 #####   RUNNING CODE   #####
 
-1. Download and unpack the Simple package from the following link: https://github.com/kitzer/rootoftwo by pressing the green link: "Clone or download"
+1. Download and unpack the Simple package from the following link: https://github.com/merexen/rootoftwo by pressing the green link: "Clone or download"
 
 2. Place the Simple folder in your home directory.
 
